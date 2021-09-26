@@ -11,7 +11,8 @@ Goal of the game is to escape pink cube by passing obstacles.
 ## Getting Started
 1. Clone my project to your local disk.
 2. Open my project in unity.
-3. Start project.
+3. Go to level 1 in Assets/Scenes
+4. Start project.
 
 ## Game Controls
 * W - move backward
