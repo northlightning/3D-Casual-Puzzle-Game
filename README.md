@@ -1,7 +1,5 @@
 # 3D Casual Puzzle Game
-Based on 3D Casual Puzzle Game tutorial by [maxter](https://www.youtube.com/c/Maxters).
-
-Tutorial: [https://youtu.be/U_cr3BzqY14](https://youtu.be/U_cr3BzqY14).
+Based on 3D Casual Puzzle Game [tutorial](https://youtu.be/U_cr3BzqY14) by [maxter](https://www.youtube.com/c/Maxters).
 
 Goal of the game is to escape pink cube by passing obstacles.
 
